@@ -157,7 +157,8 @@ h1 { text-transform: lowercase; }
 }
 
 #header .logo img {
-  max-height: 42px;
+  max-height: 40px;
+  
   
 }
 
